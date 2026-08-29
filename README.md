@@ -1,6 +1,10 @@
-# Minhas Regras do Cursor
+# Cursor Rules
 
-Regras padrão para automação e melhoria contínua de prompts no Cursor.
+Coleção de regras (`.mdc`) para otimizar o fluxo de trabalho com o Cursor AI, automatizando a criação de contexto e aprimorando respostas de código.
 
-> Baseado nas aulas do curso "IA pra Devs - Como o desenvolvedor extrair o máximo com IA" na plataforma Udemy.
+## 📁 Arquivos Inclusos
+- `cursor-rules.mdc`: Diretrizes para a IA gerar novas regras automaticamente conforme o projeto evolui.
+- `self-improvement.mdc`: Instruções para refinamento contínuo de respostas e padrões de desenvolvimento.
 
+## 🚀 Como Usar
+Copie os arquivos para a pasta `.cursor/rules/` na raiz do seu projeto.
