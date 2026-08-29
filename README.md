@@ -8,3 +8,6 @@ Coleção de regras (`.mdc`) para otimizar o fluxo de trabalho com o Cursor AI, 
 
 ## 🚀 Como Usar
 Copie os arquivos para a pasta `.cursor/rules/` na raiz do seu projeto.
+
+## 📚 Créditos / Referência
+Estrutura e regras base aprendidas no curso "IA pra Devs - Como o desenvolvedor extrair o máximo com IA", do Matheus Fraga, na plataforma Udemy.
