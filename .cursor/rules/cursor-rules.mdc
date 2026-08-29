@@ -1,12 +1,7 @@
 ---
-description: 
-globs: 
-alwaysApply: true
----
----
 description: How to add or edit Cursor rules in our project
 globs:
-alwaysApply: false
+alwaysApply: true
 ---
 # Cursor Rules Location
 
@@ -69,4 +64,3 @@ function badExample() {
   // Implementation not following guidelines
 }
 ```
-
